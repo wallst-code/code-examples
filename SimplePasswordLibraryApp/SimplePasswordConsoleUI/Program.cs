@@ -35,7 +35,7 @@ do
 } while (isFinished == false);
 
 
-
+// Refactor this into better DI.
 // Do I need to clear memory and variables? 
 
 
