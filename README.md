@@ -41,13 +41,13 @@
 <li>Simplify code and tighten it up.&nbsp;</li>
 </ol>
 <div>
-	&nbsp;</div>
+	<em>*The next iteration will likely be in C++ (maybe Golang).&nbsp;</em></div>
 <div>
 	<h2>
 		<strong><span style="color: rgb(255, 0, 0);">👉 Remember This App IS NOT SECURE</span>&nbsp;-&nbsp;<span style="color: rgb(255, 0, 0);">only for demonstration. ⚠</span></strong></h2>
 </div>
 <h3>
-	Steps:</h3>
+	Steps to use the app:</h3>
 <ul>
 <li>Start the app.</li>
 <li>Enter a 10-character &quot;seed&quot; password (i.e., the lazy one we all use any way).</li>
