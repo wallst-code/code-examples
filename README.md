@@ -31,7 +31,7 @@
 <h3>
 	Potential Next Iterations and Refactoring Needs:&nbsp;</h3>
 <ol>
-<li>&nbsp; Improve dependency injection aspects - it&#39;s a bit clunky.</li>
+<li>Improve dependency injection aspects - it&#39;s a bit clunky.</li>
 <li>Add a GUI.</li>
 <li>Improve IV for the cryptography - it lacks variability.</li>
 <li>People remember visual data - find a way to incorporate that.</li>
@@ -57,4 +57,11 @@
 <li>Select option to run again (y/n).</li>
 </ul>
 <br />
+
+
+![image](https://user-images.githubusercontent.com/69335472/219121267-aad80166-eb20-4595-87df-8c615654ddd0.png)
+
+![image](https://user-images.githubusercontent.com/69335472/219121474-3397f6c9-9304-4fcc-aa18-56a6cfb4f0ba.png)
+
 <p><a href="https://www.linkedin.com/in/senit-lutgen/"> LinkedIn Profile: Senit Lutgen</a></p>
+
